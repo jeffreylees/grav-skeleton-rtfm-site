@@ -12,7 +12,7 @@ Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help all
 Some of the key benefits are:
 
 1. Markdown is simple to learn, with minimal extra characters so it's also quicker to write content.
-2. Less chance of errors when writing in markdown.
+2. Less chance of errors when writing in Markdown.
 3. Produces valid XHTML output.
 4. Keeps the content and the visual display separate, so you cannot mess up the look of your site.
 5. Write in any text editor or Markdown application you like.
@@ -170,7 +170,7 @@ and this HTML:
 
 
 ### strikethrough
-In GFM (GitHub flavored Markdown) you can do strikethroughs.
+In GFM (GitHub Flavored Markdown) you can do strikethroughs.
 
 ```markdown
 ~~Strike through this text.~~
